@@ -1,2 +1,2 @@
 #!/bin/bash
-ou
+ok
